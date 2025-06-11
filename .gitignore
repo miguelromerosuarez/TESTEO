@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Expo files
+*.expo*
+.expo/
+
+# Mac/Windows
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
